@@ -1,4 +1,4 @@
-export const BASE_URL = "https://ai-ebook-creator-dub5.onrender.com";
+export const BASE_URL = "https://ai-ebook-creator-1.onrender.com";
 
 export const API_PATHS = {
   AUTH: {
